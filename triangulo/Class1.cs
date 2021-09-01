@@ -5,6 +5,7 @@ using System.Text;
 namespace pessoas
 {
     class pessoa
+        //classe pessoas
     {
         //declarando a variavel idade
         public int idade;
